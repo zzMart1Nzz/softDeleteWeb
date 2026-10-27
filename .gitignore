@@ -1,0 +1,7 @@
+# Tokiko ezarpenak eta behin-behineko fitxategiak
+node_modules/
+.env
+.env.*
+*.log
+estaldura/
+proben-emaitzak/

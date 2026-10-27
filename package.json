@@ -1,0 +1,12 @@
+{
+  "name": "kiroldegia-web-interfazea",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Kiroldegiko pisten eta erreserben web interfazea, euskaraz.",
+  "scripts": {
+    "start": "node zerbitzaria.mjs",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}
